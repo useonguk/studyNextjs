@@ -22,7 +22,7 @@ export default function Hero() {
           <div className="flex flex-col gap-5 text-6xl font-bold whitespace-nowrap">
             <h1>안녕하세요,</h1>
             <h1>프론트엔드 개발자</h1>
-            <h1>김소마입니다.</h1>
+            <h1>유성욱입니다.</h1>
           </div>
           <span className="text-gray-500">
             Visual Studio Code editing. Redefined. Free. Built on open source.
