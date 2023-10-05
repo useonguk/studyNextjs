@@ -20,11 +20,10 @@ const Header = () => {
         <Link href="https://github.com/useonguk" className="mx-1">
           About Me
         </Link>
-        {/* <button className="ml-10 flex bg-primary px-4 py-2.5 rounded">
+        <button className="ml-10 flex bg-primary px-4 py-2.5 rounded">
           <CoffeeIcon />
           <p className="text-white">Coffee Chat With Me</p>
-        </button> */}
-        <Button />
+        </button>
       </div>
     </header>
   );

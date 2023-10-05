@@ -1,3 +1,16 @@
+import Button from "@/components/atoms/Button";
+
 export default function WritePage() {
-  return <section>글 작성 페이지</section>;
+  return (
+    <section>
+      <div>
+        <input type="text" className="border-1-black" />
+        <div>
+          <input type="file" />
+          <Button>작성완료</Button>
+        </div>
+      </div>
+      <textarea className="w-80"></textarea>
+    </section>
+  );
 }
