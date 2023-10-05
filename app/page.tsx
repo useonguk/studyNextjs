@@ -9,7 +9,6 @@ export default function Home() {
   return (
     <main>
       <Hero />
-
       <Link href="/test">move test</Link>
       <hr />
       <Link href="test2">move test2</Link>
